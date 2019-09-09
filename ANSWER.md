@@ -1,14 +1,14 @@
 # Answers
 
-Nom : 
-Prénom : 
+Nom : OBERTAN
+Prénom : Kanesha
 
 # 1.
 Qu'est-ce qu'une instance EC2 ?
-
+Une instance EC2 est un serveur virtuel hébergé dans Elastic Compute Cloud (EC2) pour exécuter des applications sur l'infrastructure Amazon Web Services (AWS).
 # 2.
 Qu'est-ce qu'un VPC ?
-
+ Virtual Private Cloud (VPC) permet à un développeur de créer un réseau virtuel pour des ressources isolée du Cloud.
 # 3.
 A quoi sert un NSG ?
 
