@@ -18,8 +18,8 @@ Les 5 propriétés désirables du Cloud sont :
  -Libre-service 
 # 5.Qu'est-ce que l'A/B Testing ?
 L’A/B testing consiste à comparer deux versions (A et B) d’une page web ou d’une application afin de vérifier laquelle est la plus performante. 
-# 6.Comment programmer le cloud ?
-
+# 6.Comment programmer le cloud "sans avoir à effectuer des clics multiples" ?
+Afin de faire cela, il faut utiliser la configuration "Infrastructure as code".
 # 7.Quelle est la technique pour faire un déploiement sans interruption de service ?
 La technique permettant de faire un déploiement sans interruption de service est la technique du zero downtime deployment.
 
